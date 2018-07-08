@@ -209,7 +209,8 @@ footer {
 
 .box-1,
 .box-3,
-.box-5 {
+.box-5,
+.box-7 {
     height: 150px;
     padding-bottom: 20px;
     text-align:center;
@@ -253,6 +254,11 @@ footer {
 }
 .box-6 {
     background-image:url("../images/img6.jpg");
+    background-color: #4aaaa5;
+    top: 40px;
+}
+.box-7 {
+    background-image:url("../images/img7.jpg");
     background-color: #4aaaa5;
     top: 40px;
 }
