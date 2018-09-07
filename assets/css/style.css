@@ -210,7 +210,9 @@ footer {
 .box-1,
 .box-3,
 .box-5,
-.box-7 {
+.box-7,
+.box-9,
+.box-11 {
     height: 150px;
     padding-bottom: 20px;
     text-align:center;
@@ -220,7 +222,9 @@ footer {
 .box-2,
 .box-4,
 .box-6,
-.box-8 {
+.box-8,
+.box-10,
+.box-12 {
     height:150px;
     padding-bottom: 20px;
     text-align:center;
@@ -265,6 +269,26 @@ footer {
 }
 .box-8 {
     background-image:url("../images/img8.jpg");
+    background-color: #4aaaa5;
+    top: 40px;
+}
+.box-9 {
+    background-image:url("../images/img9.jpg");
+    background-color: #4aaaa5;
+    top: 40px;
+}
+.box-10 {
+    background-image:url("../images/img10.jpg");
+    background-color: #4aaaa5;
+    top: 40px;
+}
+.box-11 {
+    background-image:url("../images/img11.jpg");
+    background-color: #4aaaa5;
+    top: 40px;
+}
+.box-12 {
+    background-image:url("../images/img12.png");
     background-color: #4aaaa5;
     top: 40px;
 }
